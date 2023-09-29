@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>test</h1>
+<h1 align="center"> Welcome! I am Yaroslav Sych, Ukrainian Full Stack developer 👋 </h1> 
