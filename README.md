@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left" color:#7ef542> Hi there! 👋 </h1>
+<h1 align="left"> Hi there👋 
+  I'm Hulida Vladіslav - Full Stack Developer</h1>
